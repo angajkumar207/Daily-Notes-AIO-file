@@ -1,2 +1,2 @@
 # Daily-Notes-AIO-file
-Notes For Data Science 
+ALL Notes For Data Science >> python, Statictics, ML
